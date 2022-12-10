@@ -18,20 +18,25 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### 📫 Connect with me on
+
+<a href="[https://www.linkedin.com/in/arunima-chaudhuri-95217b194/](https://www.linkedin.com/in/zack-hu-807178197/)"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="mailto:zackhu2001@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 
 ---
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
+I am a student from China.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- ❤️ I major in Computer Science and Artificial Intelligence and my FYP is about computer vision. 
+
+- :telescope: I'd like to be a Software Engineer and contribute to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
